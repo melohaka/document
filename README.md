@@ -7,7 +7,7 @@ document for first-year student.
 
 ### ドキュメントクラスについて
 
-`\documentclass[12pt,a5j]{jsbook}`のようにしてください。
+`\documentclass[12pt,a5j]{jsbook}`のように、フォントサイズは12pt、用紙サイズはa5j、使用するクラスはjsbookやbxjsbookなどbook系を指定してください。
 
 ### 文章について
 
