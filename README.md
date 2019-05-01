@@ -24,7 +24,18 @@ document for first-year student.
 
 imageディレクトリに入れるものとします。
 
-### URL
+### ブランチの切り方
+
+* masterブランチでの作業を禁止します。
+* ブランチを切るさいはブランチ毎に具体的な目的を持って立ててください。
+* ブランチを切るさいはmasterから切ってください。
+* 作業を完了したらPull Requestを立ててください。
+
+### Pull Requestに関して
+
+* Pull Requestの題名は行った変更を具体的に、かつ簡潔にまとめてください。
+
+### その他
 
 URLに関しては`\url{https://example.com}`のように`\url`を用いてください
 
